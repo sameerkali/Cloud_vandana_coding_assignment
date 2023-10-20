@@ -1,0 +1,44 @@
+*{
+  background: #BCBDBC;
+}
+
+#calculator {
+  width: 300px;
+  margin: 50px auto;
+  border: 1px solid #f4bfbf;
+  padding: 20px;
+  text-align: center;
+}
+
+#display {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px auto;
+}
+
+td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+button {
+  width: 100%;
+  height: 100%;
+  background-color: #eee;
+  border: none;
+  cursor: pointer;
+}
+
+.number {
+  background-color: #fff;
+}
+
+.operator {
+  background-color: #ddd;
+}
